@@ -1,9 +1,9 @@
-package com.company.state.strategy;
+package com.company.mosh.strategy;
 
-import com.company.state.strategy.logic.BlackAndWhiteFilter;
-import com.company.state.strategy.logic.ImageStorage;
-import com.company.state.strategy.logic.JpegCompressor;
-import com.company.state.strategy.logic.PngCompressor;
+import com.company.mosh.strategy.logic.BlackAndWhiteFilter;
+import com.company.mosh.strategy.logic.ImageStorage;
+import com.company.mosh.strategy.logic.JpegCompressor;
+import com.company.mosh.strategy.logic.PngCompressor;
 
 public class Main {
     public static void main(String[] args) {

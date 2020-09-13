@@ -1,4 +1,4 @@
-package com.company.state.command.logic.fx;
+package com.company.mosh.command.logic.fx;
 
 public class Button {
     private String label;

@@ -1,6 +1,6 @@
-package com.company.state.command.logic;
+package com.company.mosh.command.logic;
 
-import com.company.state.command.logic.fx.Command;
+import com.company.mosh.command.logic.fx.Command;
 
 public class AddCustomerCommand implements Command {
     private CustomerService service;

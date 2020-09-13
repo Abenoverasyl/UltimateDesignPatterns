@@ -1,4 +1,4 @@
-package com.company.state.observer.logic;
+package com.company.mosh.observer.logic;
 
 import java.util.ArrayList;
 import java.util.List;

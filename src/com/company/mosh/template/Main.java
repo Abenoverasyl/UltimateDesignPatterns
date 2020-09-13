@@ -1,6 +1,6 @@
-package com.company.state.template;
+package com.company.mosh.template;
 
-import com.company.state.template.logic.TransferMoneyTask;
+import com.company.mosh.template.logic.TransferMoneyTask;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company.state.strategy.logic;
+package com.company.mosh.strategy.logic;
 
 public class PngCompressor implements Compressor {
     @Override

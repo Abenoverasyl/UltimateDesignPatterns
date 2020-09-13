@@ -1,4 +1,4 @@
-package com.company.state.command.logic;
+package com.company.mosh.command.logic;
 
 public class CustomerService {
     public void addCustomer() {

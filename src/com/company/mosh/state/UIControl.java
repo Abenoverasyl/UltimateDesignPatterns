@@ -1,4 +1,4 @@
-package com.company;
+package com.company.mosh.state;
 
 public abstract class UIControl {
     public void enable() {

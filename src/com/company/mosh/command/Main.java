@@ -1,6 +1,6 @@
-package com.company.state.command;
+package com.company.mosh.command;
 
-import com.company.state.command.logic.editor.*;
+import com.company.mosh.command.logic.editor.*;
 
 public class Main {
     public static void main(String[] args) {

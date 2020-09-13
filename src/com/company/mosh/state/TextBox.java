@@ -1,4 +1,4 @@
-package com.company;
+package com.company.mosh.state;
 
 public class TextBox extends UIControl {
 

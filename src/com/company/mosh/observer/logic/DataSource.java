@@ -1,4 +1,4 @@
-package com.company.state.observer.logic;
+package com.company.mosh.observer.logic;
 
 public class DataSource extends Subject {
     private int value;

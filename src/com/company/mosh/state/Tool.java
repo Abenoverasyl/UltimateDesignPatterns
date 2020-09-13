@@ -1,4 +1,4 @@
-package com.company.state;
+package com.company.mosh.state;
 
 public interface Tool {
     void mouseDown();

@@ -1,4 +1,4 @@
-package com.company.state.strategy.logic;
+package com.company.mosh.strategy.logic;
 
 public interface Compressor {
 //    byte[] compress(byte[] image);

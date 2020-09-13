@@ -1,4 +1,4 @@
-package com.company.state.iterator;
+package com.company.mosh.iterator;
 
 public interface Iterator {
     boolean hasNext();

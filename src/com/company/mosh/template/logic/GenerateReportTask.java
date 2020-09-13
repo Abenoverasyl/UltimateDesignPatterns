@@ -1,4 +1,4 @@
-package com.company.state.template.logic;
+package com.company.mosh.template.logic;
 
 public class GenerateReportTask {
     private AuditTrail auditTrail;

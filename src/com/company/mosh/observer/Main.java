@@ -1,8 +1,8 @@
-package com.company.state.observer;
+package com.company.mosh.observer;
 
-import com.company.state.observer.logic.Chart;
-import com.company.state.observer.logic.DataSource;
-import com.company.state.observer.logic.SpreadSheet;
+import com.company.mosh.observer.logic.Chart;
+import com.company.mosh.observer.logic.DataSource;
+import com.company.mosh.observer.logic.SpreadSheet;
 
 public class Main {
     public static void main(String[] args) {

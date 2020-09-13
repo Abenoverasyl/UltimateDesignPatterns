@@ -1,7 +1,7 @@
-package com.company;
+package com.company.mosh;
 
-import com.company.state.iterator.BrowseHistory;
-import com.company.state.iterator.Iterator;
+import com.company.mosh.iterator.BrowseHistory;
+import com.company.mosh.iterator.Iterator;
 
 
 public class Main {
